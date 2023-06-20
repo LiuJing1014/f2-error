@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <f2 class="earningsChart" id="earningsChart" onRender="{{onEarningsChart}}"/>
+  <f2 class="defenseChart" id="defenseChart" onRender="{{onDefenseChart}}" />
+</view>

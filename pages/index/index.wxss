@@ -1,0 +1,14 @@
+/**index.wxss**/
+.container{
+  width:100%;
+}
+
+.earningsChart{
+  width:100vw;
+  height:160px;
+}
+
+.defenseChart{
+  width:100vw;
+  height:300px;
+}
